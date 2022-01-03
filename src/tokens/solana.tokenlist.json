@@ -68594,17 +68594,16 @@
       "chainId": 101,
       "address": "7upjucGyzy7bujDwMURVAyFUZ3GyFytWhGscm4kXRQYw",
       "symbol": "PMIS",
-      "name": "Pay Me In Swag!",
+      "name": "PayMeInSwag MUNT",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/SeagullsFucking/PMIS/main/Nieuw%20project.jpg",
       "tags": [
-        "tokenized-genot"
+        "social-token"
       ],
       "extensions": {
-        "website": "https://www.bitchesaintshitbuthoesandtricks.nl"
+        "github": "https://github.com/seagullsfucking"
       }
-    }
-  ],
+    },
   "version": {
     "major": 0,
     "minor": 3,
