@@ -68589,6 +68589,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7upjucGyzy7bujDwMURVAyFUZ3GyFytWhGscm4kXRQYw",
+      "symbol": "PMIS",
+      "name": "Pay Me In Swag!",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/SeagullsFucking/PMIS/main/Nieuw%20project.jpg",
+      "tags": [
+        "tokenized-stock"
+      ],
+      "extensions": {
+        "website": "https://www.digitalassets.ag/UnderlyingDetails?MSFT"
+      }
     }
   ],
   "version": {
