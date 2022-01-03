@@ -68595,7 +68595,7 @@
       "address": "7upjucGyzy7bujDwMURVAyFUZ3GyFytWhGscm4kXRQYw",
       "symbol": "PMIS",
       "name": "Pay Me In Swag!",
-      "decimals": 8,
+      "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/SeagullsFucking/PMIS/main/Nieuw%20project.jpg",
       "tags": [
         "tokenized-genot"
